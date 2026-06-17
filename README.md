@@ -25,7 +25,7 @@ It demonstrates basic UI design, responsive layout, and simple JavaScript intera
 
 ## Live Demo
 
-(Live)[https://ankitao7.github.io/nayepankh-foundation/]
+[View Live Website](https://ankitao7.github.io/nayepankh-foundation/)
 
 ## Author
 Ankita Pandey
